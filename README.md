@@ -1,4 +1,4 @@
-Merhaba 👋
+👋 Hey There, Merhaba 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aliyagiztar.aliyagiztar" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Merhaba!+👋;+Ben+Ali+Yağız+Tar!;" />
@@ -6,10 +6,9 @@ Merhaba 👋
 <h3 align="center">Türkiye'den tutkulu bir tam yığın yazılım geliştiricisi 🇹🇷</h3>
 <br/>
 <div align="center">
- 🔭 Şu anda **Kurucu ortağı olduğum Smart Spirit AI INC ®
-ve Techfusionsoft şirketinde** çalışıyorum.
- 🌱 Şu anda **Hibernate, .NET MAUI, Vue.js, React** öğreniyorum.
- 💬 **Java SE, React, Firebase... veya herhangi bir şey** hakkında bana [buradan] => (https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
+ 🔭 Şu anda **Kurucu ortağı olduğum Smart Spirit AI INC® ve Techfusionsoft şirketinde** çalışıyorum.
+ 🌱 Şu anda **Hibernate, .NET MAUI, Vue.js, React** öğreniyorum ve **Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra** konularına meraklıyım.
+ 💬 **Java SE, React, Firebase... veya herhangi bir şey** hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
 </div>
 <div align="center">
   <a href="mailto:aliyagiz.tar@gmail.com">
@@ -26,16 +25,15 @@ ve Techfusionsoft şirketinde** çalışıyorum.
 <h2 align="center">⚒️ Languages-Frameworks-Tools / Dil ve Araçlar ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,csharp,nodejs,python,dotnet,react,html,css,mongodb,git,ml" />
+    <img src="https://skillicons.dev/icons?i=java,javascript,csharp,nodejs,python,dotnet,react,html,css,mongodb,git,ml,mysql,postgres,sqlite,cassandra" />
 </div>
 <br/>
 <hr/>
 <div align="center">
   <h2>🐍 My Contributions / Katkılarım 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aliyagiztar/aliyagiztar/output/github-contribution-grid-snake.svg" />
+<br/><br/><br/>
 
 </div>
 <hr/>
@@ -49,9 +47,3 @@ ve Techfusionsoft şirketinde** çalışıyorum.
 </div>
 <br/><br/>
 
-<hr/>
-<br/>
-<div align="center">
-<a href='https://ko-fi.com/aliyagiztar' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-<br/>
