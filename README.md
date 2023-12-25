@@ -7,7 +7,7 @@
 <div align="center">
   🔭 Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft
   <br/>
-  🌱 Currently learning Hibernate,Spring Boot, .NET MAUI, Vue.js, React and interested in Programmatic Advertising,SQLAlchemy, PostgreSQL,Cassandra ,Python , Dart
+  🌱 Currently learning Hibernate,Spring Boot, .NET MAUI, Vue.js, React and interested in Programmatic Advertising,SQLAlchemy, PostgreSQL,Cassandra ,Python.
   <br/>
   💬 Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues)
 </div>
