@@ -8,7 +8,7 @@
 <div align="center">
  🔭 Şu anda **Smart Spirit AI INC® ve Techfusionsoft şirketlerinin Kurucu Ortağı olarak** çalışıyorum / **Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft**
  🌱 Şu anda **Hibernate, .NET MAUI, Vue.js, React** öğreniyorum ve **Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra** konularına meraklıyım / **Currently learning Hibernate, .NET MAUI, Vue.js, React and interested in Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra**
- 💬 **Java SE, React, Firebase... veya herhangi bir şey** hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz / **Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues)**
+ 💬 **Java (SE), React, Firebase... veya herhangi bir şey** hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz / **Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues)**
 </div>
 <div align="center">
   <a href="mailto:aliyagiz.tar@gmail.com">
@@ -32,7 +32,7 @@
 <div align="center">
   <h2>🐍 My Contributions / Katkılarım 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/aliyagiztar/aliyagiztar/blob/main/github-contribution-grid-snake.svg" />
+    <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 <br/><br/><br/>
 </div>
 <hr/>
