@@ -6,10 +6,9 @@ Merhaba 👋
 <h3 align="center">Türkiye'den tutkulu bir tam yığın yazılım geliştiricisi 🇹🇷</h3>
 <br/>
 <div align="center">
- 🔭 Şu anda **kendi işim üzerinde** çalışıyorum.
+ 🔭 Şu anda **Kurucu ortağı olduğum kendi işimde** çalışıyorum.
  🌱 Şu anda **Hibernate, .NET MAUI, Vue.js, React** öğreniyorum.
- 💬 **Node.js, React, Firebase... veya herhangi bir şey** hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
- ⚡ İlginç gerçek: **Dark Souls serisinde, oyuncular için dinlenme ve iyileşme yeri olarak hizmet veren ikonik ocaklar, başlangıçta sağlık ve sihir yenilemek için "kontrol noktaları" olarak tasarlandı. Ancak, oyunun geliştirilmesi ilerledikçe, karakter seviyelendirme, dünya keşfi ve oyuncu dirilişi için merkezi noktalar haline geldiler, bu da onları oyunun mekanikleri ve öyküsünün temel ve unutulmaz bir parçası yaptı.**
+ 💬 **Java SE, React, Firebase... veya herhangi bir şey** hakkında bana [buradan] => (https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
 </div>
 <div align="center">
   <a href="mailto:aliyagiz.tar@gmail.com">
