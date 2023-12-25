@@ -6,7 +6,8 @@ Merhaba 👋
 <h3 align="center">Türkiye'den tutkulu bir tam yığın yazılım geliştiricisi 🇹🇷</h3>
 <br/>
 <div align="center">
- 🔭 Şu anda **Kurucu ortağı olduğum kendi işimde** çalışıyorum.
+ 🔭 Şu anda **Kurucu ortağı olduğum Smart Spirit AI INC ®
+ve Techfusionsoft şirketinde** çalışıyorum.
  🌱 Şu anda **Hibernate, .NET MAUI, Vue.js, React** öğreniyorum.
  💬 **Java SE, React, Firebase... veya herhangi bir şey** hakkında bana [buradan] => (https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
 </div>
@@ -22,7 +23,7 @@ Merhaba 👋
   </a>
 </div>
 <hr/>
-<h2 align="center">⚒️ Dil ve Araçlar ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools / Dil ve Araçlar ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,csharp,nodejs,python,dotnet,react,html,css,mongodb,git,ml" />
@@ -30,10 +31,11 @@ Merhaba 👋
 <br/>
 <hr/>
 <div align="center">
-  <h2>🐍 Katkılarım 🐍</h2>
+  <h2>🐍 My Contributions / Katkılarım 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://github.com/aliyagiztar/aliyagiztar/blob/main/github-contribution-grid-snake.svg" />
-<br/><br/><br/>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
 
 </div>
 <hr/>
