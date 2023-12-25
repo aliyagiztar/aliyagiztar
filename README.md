@@ -3,7 +3,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Merhaba!+👋;+I'm+Ali+Yağız+Tar!;+Ben+Ali+Yağız+Tar!;" />
 </h1>
-<h3 align="center">🇹🇷 Türkiye'den tutkulu bir tam yığın yazılım geliştiricisi / 🇹🇷 A passionate full stack developer from Turkey</h3>
+<h3 align="center">🇹🇷 Türkiye'den tutkulu bir yazılım geliştiricisi / 🇹🇷 A passionate full stack developer from Turkey</h3>
 <br/>
 <div align="center">
  🔭 Şu anda **Smart Spirit AI INC® ve Techfusionsoft şirketlerinin Kurucu Ortağı olarak** çalışıyorum / **Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft**
