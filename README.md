@@ -3,18 +3,22 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Merhaba!+👋;+I'm+Ali+Yağız+Tar!;+Ben+Ali+Yağız+Tar!;" />
 </h1>
-<h3 align="center">🇹🇷 Türkiye'den tutkulu bir yazılım geliştiricisi / 🇹🇷 A passionate full stack developer from Turkey</h3>
+🌎 🇺🇸
+<br/>
+🇹🇷 A passionate full stack developer from Turkey</h3>
+Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft
+Currently learning Hibernate, .NET MAUI, Vue.js, React and interested in Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra
+ 💬 Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues)
+<br/>
+<h3 align="center">🇹🇷 Türkiye'den tutkulu bir yazılım geliştiricisi / 
 <br/>
 <div align="center">
  🔭 Şu anda Smart Spirit AI INC® ve Techfusionsoft şirketlerinin Kurucu Ortağı olarak** çalışıyorum.
 <br/>
-Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft**
  🌱 Şu anda Hibernate, .NET MAUI, Vue.js, React öğreniyorum ve Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra konularına meraklıyım.
 <br/>
-Currently learning Hibernate, .NET MAUI, Vue.js, React and interested in Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra**
- 💬 Java (SE), React, Firebase... veya herhangi bir şey*hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
+ 💬 Java (SE), React, Firebase... veya herhangi bir şey hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
 <br/>
-Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues)**
 </div>
 <div align="center">
   <a href="mailto:aliyagiz.tar@gmail.com">
