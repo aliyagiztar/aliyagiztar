@@ -6,13 +6,13 @@
 <h3 align="center">🇹🇷 Türkiye'den tutkulu bir yazılım geliştiricisi / 🇹🇷 A passionate full stack developer from Turkey</h3>
 <br/>
 <div align="center">
- 🔭 Şu anda Smart Spirit AI INC® ve Techfusionsoft şirketlerinin Kurucu Ortağı olarak** çalışıyorum /
+ 🔭 Şu anda Smart Spirit AI INC® ve Techfusionsoft şirketlerinin Kurucu Ortağı olarak** çalışıyorum.
 <br/>
 Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft**
- 🌱 Şu anda **Hibernate, .NET MAUI, Vue.js, React** öğreniyorum ve **Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra** konularına meraklıyım.
+ 🌱 Şu anda Hibernate, .NET MAUI, Vue.js, React öğreniyorum ve Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra konularına meraklıyım.
 <br/>
 Currently learning Hibernate, .NET MAUI, Vue.js, React and interested in Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra**
- 💬 **Java (SE), React, Firebase... veya herhangi bir şey** hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
+ 💬 Java (SE), React, Firebase... veya herhangi bir şey*hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
 <br/>
 Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues)**
 </div>
