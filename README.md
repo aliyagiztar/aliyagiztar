@@ -1,15 +1,15 @@
-👋 Hey There, Merhaba
+👋 Hey There, I'm Ali Yağız Tar
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aliyagiztar.aliyagiztar" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+Merhaba!+👋;+I'm+Ali+Yağız+Tar!;+Ben+Ali+Yağız+Tar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Ali+Yağız+Tar!;" />
 </h1>
-<h3 align="center">🌎 🇺🇸 A passionate full stack developer from Turkey / 🇹🇷 Türkiye'den tutkulu bir yazılım geliştiricisi</h3>
+<h3 align="center">🇹🇷 A passionate full stack developer from Turkey</h3>
 <div align="center">
-  🔭 Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft / Smart Spirit AI INC® ve Techfusionsoft şirketlerinin Kurucu Ortağı olarak çalışıyorum.
+  🔭 Working as the Co-Founder at Smart Spirit AI INC® and Techfusionsoft
   <br/>
-  🌱 Currently learning Hibernate, .NET MAUI, Vue.js, React and interested in Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra / Hibernate, .NET MAUI, Vue.js, React öğreniyorum ve Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra konularına meraklıyım.
+  🌱 Currently learning Hibernate, .NET MAUI, Vue.js, React and interested in Programmatic Advertising, MySQL, PostgreSQL, SQLite, Cassandra
   <br/>
-  💬 Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues) / Java SE, React, Firebase... veya herhangi bir şey hakkında bana [buradan](https://github.com/aliyagiztar/aliyagiztar/issues) soru sorabilirsiniz.
+  💬 Ask me about Java SE, React, Firebase... or anything [here](https://github.com/aliyagiztar/aliyagiztar/issues)
 </div>
 <div align="center">
   <a href="mailto:aliyagiz.tar@gmail.com">
@@ -23,14 +23,14 @@
   </a>
 </div>
 <hr/>
-<h2 align="center">⚒️ Languages-Frameworks-Tools / Dil ve Araçlar ⚒️</h2>
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,javascript,csharp,nodejs,python,dotnet,react,html,css,mongodb,git,ml,mysql,postgres,sqlite,cassandra" />
 </div>
 <hr/>
 <div align="center">
-  <h2>🐍 My Contributions / Katkılarım 🐍</h2>
+  <h2>🐍 My Contributions 🐍</h2>
   <br>
     <img alt="snake eating my contributions" src="https://github.com/aliyagiztar/aliyagiztar/blob/main/github-contribution-grid-snake.svg" />
 </div>
